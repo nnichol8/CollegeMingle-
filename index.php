@@ -1,3 +1,4 @@
+<!--College Mingle -->
 <?php include 'view/header_index.php'; ?>
 
 <body>
